@@ -1,0 +1,32 @@
+Product Design Classroom:
+This is the product design classroom of No. 11 School. Through project-based learning, students experience the complete closed loop of product design from identifying needs to product launch. Combining mathematical thinking with ergonomic principles, students independently design and produce various campus cultural and creative products, such as Rongguang Perpetual calendars. The products made by students in class can be exhibited and sold at the "Red Window Gathering" event held by the school every year, and the sales are very encouraging.
+
+3D Laboratory:
+Here, students use 3D printing, laser engraving and other technologies to make products. The wall-mounted display stands are all the works designed and made by the students themselves, such as 3D printed car models and so on. This year, we have launched an autonomous 3D printing service. Students can use the 3D printers in the classroom to print their own designed models by making an online appointment.
+
+Internet Laboratory:
+The Internet of Things Technology Application course takes smart home as its theme. Through task-driven learning methods, it enables students to understand the basic principles and communication mechanisms of the Internet of Things in the process of solving real problems, and pay attention to data security. In this classroom, students designed and built prototypes of intelligent systems, such as smart farms and smart trash cans. The smart house in the classroom will initially be equipped with Xiaomi devices. In the future, students will be able to customize smart home solutions based on their real needs and gradually transform the space of the smart house.
+
+Robot Laboratory:
+The robot course classroom is dedicated to enhancing students' engineering capabilities. Through learning robot knowledge, independent innovation and project development, students not only learn engineering design, production and programming, but also participate in international competitions such as FTC and achieve excellent results. The classroom is also the activity venue for the robot club. The robots displayed in the side cabinets were designed by the club members when they represented the Chinese team in the FTC competitions over the years.
+
+High-performance Computing Laboratory (Artificial Intelligence):
+The school has launched an artificial intelligence course, aiming to expand students' understanding of the field of artificial intelligence, understand the underlying algorithms and logical structures of artificial intelligence models, and develop and apply artificial intelligence products in campus scenarios. Many excellent products have emerged here. For instance, the algorithm for automatically restoring ancient inscriptions developed by student Sun Gongbo won the fourth prize in the ISEF competition.
+
+Resident Scientist Studio:
+In order to better broaden the horizons of students who wish to conduct scientific research, enhance their scientific literacy, and guide their interest development and in-depth research, the school has invited resident scientists to set up a resident studio. Here, scientists engage in daily discussions with students and create face-to-face communication and "working" experiences between students and scientists through lectures, experiments and other means. The current two resident scientists of the university are Professor Mu Liangzhu from the School of Physics at Peking University and Professor Gao Yunfeng from the School of Aerospace Engineering at Tsinghua University.
+
+Chemistry Laboratory:
+The high-end chemistry laboratory is built in accordance with university standards and consists of two laboratories: the analysis laboratory and the synthesis laboratory.
+
+Analytical Chemistry Laboratory:
+The Analytical Chemistry laboratory is equipped with a variety of advanced analytical instruments to cultivate students' advanced instrumental analysis skills and research capabilities. Here, students can carry out research topics they are interested in under the guidance of their teachers, such as crystal growth and water quality analysis. The posters on the wall display the research achievements of previous students.
+
+Synthetic Chemistry Laboratory:
+The equipment in the synthetic chemistry laboratory can support basic inorganic and organic synthesis experiments. We use this laboratory to offer elective experimental courses, such as the advanced science and engineering course "Mastering Chemistry - A Feast of Vision and Science", research-based learning courses, and chemistry competition experimental courses, etc
+
+Integrated Circuit and Chip Manufacturing Laboratory:
+This laboratory was donated by the university, and students can use the equipment inside to make simple chips. Under the guidance of university professors, the school has launched the "Chip Principles and Fabrication Course", which has been offered for two semesters and is well-received by the students.
+
+Innovation Experiment and Multi-Physics Modeling Laboratory:
+This classroom offers advanced physics experiment courses, aiming to stimulate students' interest in scientific research and enhance their subject literacy through project-based learning. The course is divided into four directions: physics competition experiments, cosmic ray and ground measurement, numerical calculation simulation and emulation, and sensor application and innovation experiments. These courses not only cover multiple fields of physics, but also require students to work in teams, write reports, and enhance their experimental skills and scientific thinking abilities by using various physical instruments and software tools.
